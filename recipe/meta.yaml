@@ -43,7 +43,7 @@ requirements:
     - glib
     - gstreamer-orc
     - hdf5
-    - imagemagick < 7.0.9
+    - imagemagick <7.0.9
     - jpeg
     - lcms2
     - libexif
@@ -67,7 +67,7 @@ requirements:
     - librsvg 
     - libwebp
     - libxml2
-    - imagemagick < 7.0.9
+    - imagemagick <7.0.9
     - openslide
     - pango
     - poppler
