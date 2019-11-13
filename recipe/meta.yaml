@@ -18,7 +18,7 @@ source:
   sha256: a0ee255a2a1ebfea5b2dff2a780824d7157a78c010d7ddd531279aacefbf2539 
 
 build:
-  number: 0
+  number: 1
   skip: true  # [win]
   run_exports:
     # SO name changes at minor rev bumps.
@@ -43,7 +43,7 @@ requirements:
     - glib
     - gstreamer-orc
     - hdf5
-    - imagemagick
+    - imagemagick < 7.0.9
     - jpeg
     - lcms2
     - libexif
@@ -67,7 +67,7 @@ requirements:
     - librsvg 
     - libwebp
     - libxml2
-    - imagemagick
+    - imagemagick < 7.0.9
     - openslide
     - pango
     - poppler
