@@ -41,7 +41,7 @@ requirements:
     - gdk-pixbuf
     - giflib
     - glib
-    - gstreamer-orc <0.4.31
+    - gstreamer-orc <0.4.30
     - hdf5
     - imagemagick <7.0.9
     - jpeg
