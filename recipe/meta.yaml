@@ -41,9 +41,9 @@ requirements:
     - gdk-pixbuf
     - giflib
     - glib
-    - gstreamer-orc <0.4.30
+    - gstreamer-orc
     - hdf5
-    - imagemagick <7.0.9
+    - imagemagick
     - jpeg
     - lcms2
     - libexif
@@ -60,14 +60,14 @@ requirements:
   run:
     - fftw
     - gdk-pixbuf
-    - gstreamer-orc <0.4.30
+    - gstreamer-orc
     - libexif
     - libgsf
     - libmatio
     - librsvg 
     - libwebp
     - libxml2
-    - imagemagick <7.0.9
+    - imagemagick
     - openslide
     - pango
     - poppler
