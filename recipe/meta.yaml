@@ -52,7 +52,6 @@ requirements:
     - libpng
     - librsvg 
     - libtiff
-    - libwebp
     - openslide
     - pango
     - poppler
@@ -65,7 +64,6 @@ requirements:
     - libgsf
     - libmatio
     - librsvg 
-    - libwebp
     - libxml2
     - imagemagick
     - openslide
